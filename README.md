@@ -1,6 +1,8 @@
 # Budget Tracker
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
+![Screenshot](screenshot.png)
+
 ## Description
 Budget Tracker helps you keep track of your finances and analyze your spending with an easy to use interface. It incorporates offline functionality and can be installed as a Progressive Web App, so you can use it not matter where you are! Budget Tracker uses chart.js for its beautiful chart and is deployed at https://eb-budget-tracker.herokuapp.com/
 
